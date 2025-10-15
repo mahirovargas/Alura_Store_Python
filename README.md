@@ -23,7 +23,6 @@ El objetivo principal de este proyecto es analizar los datos de ventas de cuatro
 |-------------|-------------|
 | 🐍 **Python 3.12+** | Lenguaje principal del proyecto |
 | 📊 **Pandas** | Limpieza, transformación y análisis de datos |
-| 📈 **Matplotlib / Seaborn** | Visualización de resultados |
 | 💻 **Jupyter Notebook** | Entorno interactivo para análisis |
 
 ---
