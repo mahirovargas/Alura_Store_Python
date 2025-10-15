@@ -1,34 +1,52 @@
-# Alura_Store_Python
-Aqui encontraras mis avances sobre las calases de data science 
+# 🏪 **Alura_Store_Python**
 
-El objetivo principal de este proyecto es analizar los datos de ventas de cuatro tiendas de la cadena Alura Store con el fin de:
+Aquí encontrarás mis avances sobre las clases de **Data Science** del proyecto **Alura Store**.  
+Este repositorio muestra el análisis completo de datos de ventas de cuatro tiendas pertenecientes a la cadena **Alura Store**.
 
-Identificar el tipo de producto que vende cada tienda.
+---
 
-Calcular la facturación total y el promedio de calificaciones.
+## 🎯 **Objetivo del Proyecto**
 
-Determinar el producto más vendido y el menos vendido.
+El objetivo principal de este proyecto es analizar los datos de ventas de cuatro tiendas de la cadena **Alura Store** con el fin de:
 
-Obtener el costo de envío promedio por tienda.
+✅ Identificar el **tipo de producto** que vende cada tienda.  
+💰 Calcular la **facturación total** y el **promedio de calificaciones**.  
+📊 Determinar el **producto más vendido** y el **menos vendido**.  
+🚚 Obtener el **costo de envío promedio** por tienda.  
 
-Este análisis permite entender el rendimiento general de las tiendas, detectar oportunidades de mejora en los costos logísticos y comparar la satisfacción del cliente entre locales.
+> Este análisis permite entender el rendimiento general de las tiendas, detectar oportunidades de mejora en los costos logísticos y comparar la satisfacción del cliente entre locales.
 
-Clonar el repositorio
+
+## 🧠 **Tecnologías Utilizadas**
+
+| Tecnología | Descripción |
+|-------------|-------------|
+| 🐍 **Python 3.12+** | Lenguaje principal del proyecto |
+| 📊 **Pandas** | Limpieza, transformación y análisis de datos |
+| 📈 **Matplotlib / Seaborn** | Visualización de resultados |
+| 💻 **Jupyter Notebook** | Entorno interactivo para análisis |
+
+---
+
+## ⚙️ **Instrucciones de Uso**
+
+### 1️⃣ Clonar el repositorio
+```bash
 git clone https://github.com/tu_usuario/alura-store.git
 cd alura-store
 
-Instalar dependencias
+2️⃣ Instalar dependencias
 pip install -r requirements.txt
 
-Ejecutar el notebook
+
+3️⃣ Ejecutar el notebook
 jupyter notebook analisis_alura_store.ipynb
 
-🧠 Tecnologías Utilizadas
 
-Python 3.12+
+✨ Autor
 
-Pandas → Limpieza y análisis de datos
+👤 John Adiel Vargas López
+📘 Estudiante de Ingeniería en Sistemas en la Universidad del Pacífico
+📍 Proyecto desarrollado en el curso de Data Science – Alura LATAM
 
-Matplotlib / Seaborn → Visualización de resultados
 
-Jupyter Notebook → Desarrollo interactivo
